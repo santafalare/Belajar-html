@@ -6,13 +6,13 @@ body {
   
   .inner-table-2 {
     border-collapse: collapse;
-    width: 68%;
+    width: 25%;
     margin-bottom: 20px;
   }
 
   .inner-table-3 {
     border-collapse: collapse;
-    width: 80%;
+    width: 30%;
     margin-bottom: 20px;
   }
   
@@ -48,15 +48,3 @@ body {
     font-size: smaller;
   }
   
-  button {
-    padding: 10px 20px;
-    background-color: #bebebe;
-    color: rgb(10, 2, 2);
-    border: none;
-    cursor: pointer;
-    font-weight: bold;
-  }
-  
-  button:hover {
-    background-color: #45a049;
-  }
